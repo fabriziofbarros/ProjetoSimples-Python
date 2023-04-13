@@ -1,9 +1,9 @@
 while True:
     print("Menu Principal")
     print("1 - Cadastrar mês de referência")
-    print("2 – Exibir dados do mês de referência ")
-    print("3 – Relatório comparativo – Referência 2019 ")
-    print("4 – Listar todos os meses cadastrados ")
+    print("2 – Exibir dados do mês de referência")
+    print("3 – Relatório comparativo – Referência 2019")
+    print("4 – Listar todos os meses cadastrados")
     opcao = int(input("Digite a opção desejada: "))
 
     if opcao == 1:
